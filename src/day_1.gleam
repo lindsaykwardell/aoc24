@@ -3,7 +3,7 @@ import gleam/int
 import gleam/io
 import gleam/list
 import gleam/string
-import input
+import day_1_input as input
 
 pub fn main() {
   let input = input.input

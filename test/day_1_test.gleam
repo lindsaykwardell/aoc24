@@ -1,6 +1,6 @@
 import gleeunit
 import gleeunit/should
-import input
+import day_1_input as input
 import day_1
 
 pub fn main() {
